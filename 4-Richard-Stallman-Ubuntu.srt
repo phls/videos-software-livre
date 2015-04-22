@@ -1,0 +1,337 @@
+1
+00:00:16,600 --> 00:00:20,500
+Ubuntu: o "spyware"
+
+2
+00:00:21,519 --> 00:00:24,390
+Então, primeiro de tudo, o que é Ubuntu
+
+3
+00:00:24,390 --> 00:00:27,939
+Ubuntu é uma distribuição
+
+4
+00:00:27,939 --> 00:00:32,668
+do sistema GNU + Linux, existem mais de mil
+
+5
+00:00:32,668 --> 00:00:37,229
+variações de distribuições do sistema GNU/Linux
+
+6
+00:00:37,229 --> 00:00:43,488
+Ubuntu é uma delas, a maioria dessa distribuições
+
+7
+00:00:43,488 --> 00:00:46,919
+tem problemas éticos, por exemplo
+
+8
+00:00:46,920 --> 00:00:50,448
+a maioria delas contém algum software não livre
+
+9
+00:00:50,448 --> 00:00:53,689
+efetivamente elas dizem
+
+10
+00:00:53,689 --> 00:00:56,729
+a prioridade delas não é a sua liberdade
+
+11
+00:00:56,729 --> 00:01:03,729
+é apenas conveniência. Então se você instalar alguma dessas distros não livres
+
+12
+00:01:03,869 --> 00:01:09,859
+bem, você estará mais perto da liberdade do que se você rodar Windows ou algum sistema da Apple
+
+13
+00:01:09,859 --> 00:01:13,060
+mas você não está completamente livre
+
+14
+00:01:13,060 --> 00:01:16,490
+pior ainda
+
+15
+00:01:16,489 --> 00:01:22,699
+porque eles apresentam conveniência ao invés de liberdade como seu objetivo
+
+16
+00:01:22,700 --> 00:01:25,759
+eles estão ensinando as pessoas a não valorizar a liberdade
+
+17
+00:01:25,759 --> 00:01:30,000
+e ao fazer isso eles estão provocando um grande dano em toda a nossa comunidade
+
+18
+00:01:30,000 --> 00:01:34,189
+Ubuntu é uma delas, é uma variante do GNU/Linux
+
+19
+00:01:34,189 --> 00:01:38,569
+que instala vários sotwares não livres e propõe ainda mais
+
+20
+00:01:38,569 --> 00:01:42,170
+mas Ubuntu tem um problema incomum também, que é
+
+21
+00:01:42,170 --> 00:01:45,469
+um "spyware" com funcionalidades maliciosas
+
+22
+00:01:45,469 --> 00:01:48,810
+para fazer coisas como espionar o usuário, bem
+
+23
+00:01:48,810 --> 00:01:53,769
+eles são normalmente encontrados em softwares proprietário, eles são raros no software livre
+
+24
+00:01:53,769 --> 00:01:55,549
+mas Ubuntu é um exemplo
+
+25
+00:01:55,549 --> 00:02:01,228
+Ubuntu tem um recurso para desktop para pesquisar por alguma coisa
+
+26
+00:02:01,228 --> 00:02:06,349
+e eles estão tentando torná-lo multi-propósito, uma maneira conveniente para pesquisar por coisas
+
+27
+00:02:06,349 --> 00:02:09,530
+e quando o usuário pesquisa por esse meio
+
+28
+00:02:09,530 --> 00:02:13,110
+ele manda os termos pesquisados pelo usuário
+
+29
+00:02:13,110 --> 00:02:17,220
+para a Canonical, a empresa que faz e distribui o Ubuntu
+
+30
+00:02:17,219 --> 00:02:21,729
+e isso já é um "spyware", você sabe, quando você pesquisa por alguma coisa
+
+31
+00:02:21,729 --> 00:02:28,090
+ele não devia por padrão mandar nada para uma empresa, isso devia ser algo que você faz opcionalmente
+
+32
+00:02:28,090 --> 00:02:32,430
+sabendo quando você está fazendo isso a cada vez, então você pensa a respeito
+
+33
+00:02:32,430 --> 00:02:35,969
+eu quero mostrar para mais alguém que eu estou procurando por isso
+
+34
+00:02:35,969 --> 00:02:41,740
+ou eu apenas quero procurar no meu próprio computador? Em todo caso
+
+35
+00:02:41,740 --> 00:02:45,700
+Canonical faz é, Canonical tem
+
+36
+00:02:45,699 --> 00:02:48,819
+uma lista de produtos da Amazon
+
+37
+00:02:48,819 --> 00:02:53,430
+ela vê quais produtos da Amazon estão relacionados com aqueles termos procurados
+
+38
+00:02:53,430 --> 00:02:58,740
+e ela diz a Amazon para mostrar propagandas para aqueles produtos
+
+39
+00:02:58,740 --> 00:03:03,850
+no computador do usuário e como a Amazon está mandando aquelas propagandas diretamente para
+
+40
+00:03:03,849 --> 00:03:05,060
+o computador do usuário
+
+41
+00:03:05,060 --> 00:03:08,659
+Amazon consegue descobrir algo sobre aquele usuário também
+
+42
+00:03:08,659 --> 00:03:12,039
+ou seja, para aquele usuário foi mandado
+
+43
+00:03:12,039 --> 00:03:15,349
+essas propagandas, provavelmente o usuário estava procurando por
+
+44
+00:03:15,349 --> 00:03:18,349
+tal e tal, isso é escandaloso
+
+45
+00:03:18,349 --> 00:03:23,659
+e nós precisamos ensinar uma lição a Canonical
+
+46
+00:03:23,659 --> 00:03:27,289
+nós precisamos ensinar a Canonical a não
+
+47
+00:03:27,289 --> 00:03:29,490
+espionar seus usuários
+
+48
+00:03:29,861 --> 00:03:33,100
+Sobre ter sido chamado de infantil e disseminador de FUD pelo Jono Bacon
+
+49
+00:03:33,849 --> 00:03:35,829
+ele tinha que se desculpar por me chamar de
+
+50
+00:03:35,830 --> 00:03:36,540
+infantil
+
+51
+00:03:36,539 --> 00:03:39,739
+porque as pessoas foram para cima dele por isso
+
+52
+00:03:39,740 --> 00:03:43,159
+o ponto é que
+
+53
+00:03:43,159 --> 00:03:46,909
+eles não se desculparam por espionar os usuários
+
+54
+00:03:46,909 --> 00:03:50,389
+claro que não, essa foi uma decisão de negócios
+
+55
+00:03:50,389 --> 00:03:57,169
+e, a menos que a gente os force duramente, eles não vão mudar isso e eles não vão se desculpar por isso
+
+56
+00:03:57,170 --> 00:04:00,609
+na verdade eu estou mais preocupado se eles mudaram isso do que se eles
+
+57
+00:04:00,610 --> 00:04:02,030
+se desculparam por isso
+
+58
+00:04:02,030 --> 00:04:06,610
+você sabe, eu não estou, eu não estou tão interessado em fazê-los
+
+59
+00:04:06,610 --> 00:04:10,310
+engolir sapos como estou em fazê-los parar
+
+60
+00:04:10,310 --> 00:04:15,520
+porque uma das vantagens
+
+61
+00:04:15,520 --> 00:04:21,279
+que nós queremos para o software livre é que os usuários possam se proteger de recursos maliciosos
+
+62
+00:04:21,279 --> 00:04:26,370
+e nós podemos protegê-los, podemos nos proteger dos recursos maliciosos no Ubuntu
+
+63
+00:04:26,370 --> 00:04:30,590
+modificando-o, fazendo uma versão modificada
+
+64
+00:04:30,589 --> 00:04:35,949
+que não espione, e já existem versões modificadas que não espionam
+
+65
+00:04:35,949 --> 00:04:41,029
+mas o ponto é, o que nós realmente queremos ser capazes de dizer as pessoas é
+
+66
+00:04:41,029 --> 00:04:45,039
+que a força de dissuasão
+
+67
+00:04:45,040 --> 00:04:51,459
+a forca de impedimento das comunidades rejeitando as funcionalidades maliciosas
+
+68
+00:04:51,459 --> 00:04:57,019
+é tão forte que você pode ficar bastante confiante de que ele não vai mesmo tentar espionar você
+
+69
+00:04:57,019 --> 00:05:01,449
+e para recuperar isso nós temos que convencer
+
+70
+00:05:01,449 --> 00:05:06,000
+os desenvolvedores do Ubuntu de parar de espionar, é por isso que essa questão é
+
+71
+00:05:06,000 --> 00:05:10,370
+importante, é claro que eles tentarão virar isso de várias maneiras baseados
+
+72
+00:05:10,370 --> 00:05:11,780
+em valores diferentes
+
+73
+00:05:11,779 --> 00:05:15,469
+eles dizem: conveniência acima de tudo
+
+74
+00:05:15,470 --> 00:05:21,060
+olha a conveniência que estamos dando para você, e por falar nisso
+
+75
+00:05:21,060 --> 00:05:24,160
+Amazon nos dará algum dinheiro e nós poderemos usar
+
+76
+00:05:24,160 --> 00:05:29,290
+para escrever alguns programas livres, o que em si é bom, mas não
+
+77
+00:05:29,290 --> 00:05:33,790
+justifica um software livre pervertido
+
+78
+00:05:33,790 --> 00:05:37,770
+isso não justifica alguma coisa escandalosa
+
+79
+00:05:37,769 --> 00:05:41,589
+então eles tem que parar com isso
+
+80
+00:05:41,589 --> 00:05:48,090
+agora, sobre eles colocarem Ubuntu GNU/Linux em telefones
+
+81
+00:05:48,089 --> 00:05:52,728
+eu não sei o que eles vão fazer, talvez eles tenham o mesmo recurso de "spyware"
+
+82
+00:05:52,728 --> 00:05:57,228
+eu suponho que eles provavelmente terão, mas vamos ver
+
+83
+00:05:57,228 --> 00:06:03,098
+quais serão os fatos, eu também suponho  que eles conterão programas não livres
+
+84
+00:06:04,400 --> 00:06:08,000
+Traduzido e legendado por Paulo Henrique de Lima Santana
+Revisão: Bruno Buys
+

@@ -1,176 +1,132 @@
 1
-00:00:12,548 --> 00:00:16,469
-Para que os usuários tenham controle sobre
+00:00:12,548 --> 00:00:17,989
+Para que os usuários tenham controle sobre um programa
 
 2
-00:00:16,469 --> 00:00:17,989
-um programa
-
-3
 00:00:17,989 --> 00:00:22,489
 ou algum outro trabalho que eles costumam executar
 
-4
+3
 00:00:22,489 --> 00:00:26,208
 os usuários precisam de 4 liberdades essenciais:
 
+4
+00:00:26,208 --> 00:00:32,960
+Liberdade 0 é a liberdade de executar da maneira que você desejar, de rodar o programa como você desejar
+
 5
-00:00:26,208 --> 00:00:31,849
-Liberdade 0 é a liberdade de executar da maneira que você desejar, de rodar o programa como
-
-6
-00:00:31,849 --> 00:00:32,960
-você desejar
-
-7
 00:00:32,960 --> 00:00:36,630
 fazendo qualquer trabalho que você queira fazer
 
-8
-00:00:36,630 --> 00:00:38,200
-Liberdade 1
+6
+00:00:36,630 --> 00:00:44,229
+Liberdade 1 é a liberdade de estudar o funcionamento da melhor forma possível
 
-9
-00:00:38,200 --> 00:00:40,290
-é a liberdade
-
-10
-00:00:40,289 --> 00:00:44,229
-de estudar o funcionamento da melhor forma possível
-
-11
-00:00:44,229 --> 00:00:48,779
+7
+00:00:44,300 --> 00:00:48,779
 e mudá-lo para que o funcionamento faça o trabalho da maneira que você desejar
 
+8
+00:00:48,780 --> 00:00:55,869
+no caso do software isso significa estudar o código fonte real e mudar isso
+
+9
+00:00:55,869 --> 00:01:03,369
+bem, essas duas liberdades fornecem controle individual sobre o programa ou outros funcionamentos
+
+10
+00:01:03,369 --> 00:01:10,120
+isso siginifica que usuário final pode adaptar o funcionamento para aquela necessidade do usuário
+
+11
+00:01:10,120 --> 00:01:14,689
+contudo controle individual não é suficiente, por exemplo
+
 12
-00:00:48,780 --> 00:00:50,000
-no caso do
-
-13
-00:00:50,000 --> 00:00:55,869
-software isso significa estudar o código fonte real e mudar isso
-
-14
-00:00:55,869 --> 00:01:01,469
-bem, essas duas liberdades fornecem controle individual sobre o programa ou
-
-15
-00:01:01,469 --> 00:01:03,369
-outros funcionamentos
-
-16
-00:01:03,369 --> 00:01:05,319
-isso siginifica que usuário final
-
-17
-00:01:05,319 --> 00:01:07,359
-pode adaptar o funcionamento
-
-18
-00:01:07,359 --> 00:01:10,120
-para aquela necessidade do usuário
-
-19
-00:01:10,120 --> 00:01:13,270
-contudo controle individual não é suficiente
-
-20
-00:01:13,269 --> 00:01:14,689
-por exemplo
-
-21
 00:01:14,689 --> 00:01:20,969
 no caso de programas, a maiora dos usuários de computador não sabem como programar
 
-22
+13
 00:01:20,969 --> 00:01:25,060
 então eles não sabem como exercer esse controle individual
 
-23
+14
 00:01:25,060 --> 00:01:28,939
 mas até para os usuários que sabem como fazer, como eu
 
-24
+15
 00:01:28,939 --> 00:01:31,899
 o fato é que nós usamos tantos programas
 
-25
+16
 00:01:31,900 --> 00:01:36,590
 que se nós fóssemos limitados pelo controle individual, nós não teríamos efetivamente
 
-26
+17
 00:01:36,590 --> 00:01:41,689
 controle sobre esses programas, nós precisamos controle coletivo também, o que significa
 
-27
+18
 00:01:41,689 --> 00:01:44,289
 que qualquer grupo de usuários
 
-28
-00:01:44,290 --> 00:01:49,070
-deve ser livre para trabalhar juntos para exercer controle sobre suas versões
+19
+00:01:44,290 --> 00:01:51,289
+deve ser livre para trabalhar juntos para exercer controle sobre suas versões do trabalho
 
-29
-00:01:49,069 --> 00:01:51,289
-do trabalho
-
-30
+20
 00:01:51,290 --> 00:01:55,979
 para controle coletivo nós precisamos de mais duas liberdades essenciais
 
-31
+21
 00:01:55,978 --> 00:02:00,980
 Liberdade 2 é a liberdade de redistribuir cópias exatas
 
-32
+22
 00:02:00,980 --> 00:02:07,200
 e Liberdade 3 é a liberdade de redistribuir suas versões modificadas
 
-33
+23
 00:02:07,200 --> 00:02:11,810
 isso permite que pessoas em um grupo cooperem entre si enquanto elas fazem
 
-34
-00:02:11,810 --> 00:02:16,580
-modificações no programa ou outros trabalhos e também ofereçam suas versões para
+24
+00:02:11,810 --> 00:02:19,849
+modificações no programa ou outros trabalhos e também ofereçam suas versões para outros, se desejarem
 
-35
-00:02:16,580 --> 00:02:19,849
-outros, se desejarem
-
-36
+25
 00:02:19,848 --> 00:02:23,908
 então, com essas 4 liberdades os usuários
 
-37
+26
 00:02:23,908 --> 00:02:29,269
 controlam o funcionamento e eles controlam o que eles fazem com isso, no caso do software
 
-38
+27
 00:02:29,269 --> 00:02:32,129
 os usuários podem controlar seus computadores
 
-39
+28
 00:02:32,128 --> 00:02:36,388
 e é fundamentalmente sobre isso, usuários merecem ter controle sobre
 
-40
+29
 00:02:36,389 --> 00:02:38,359
 seus próprios computadores
 
-41
+30
 00:02:38,359 --> 00:02:42,509
 é errado qualquer outro ter controle sobre o seu computador
 
-42
+31
 00:02:42,508 --> 00:02:44,108
 isso é uma injustiça
 
-43
+32
 00:02:44,109 --> 00:02:45,409
 e nós devemos nos livrar disso
 
-44
+33
 00:02:48,925 --> 00:02:56,925
-Traduzido e legendado por Paulo Henrique de Lima Santana (phls@softwarelivre.org)
+Traduzido e legendado por Paulo Henrique de Lima Santana
 
