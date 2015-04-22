@@ -1,0 +1,186 @@
+1
+00:00:02,995 --> 00:00:04,985
+Software está em tudo ao nosso redor
+
+2
+00:00:05,085 --> 00:00:08,559
+e às vezes, dentro de nós
+
+3
+00:00:09,458 --> 00:00:11,384
+mas o que acontece quando as ferramentas que usamos
+
+4
+00:00:11,484 --> 00:00:13,888
+obedecem a outras pessoas?
+
+5
+00:00:13,988 --> 00:00:17,525
+Uma ferramenta sob seu controle serve aos seus interesses
+
+6
+00:00:17,625 --> 00:00:19,751
+mas se é alguém mais que a controla
+
+7
+00:00:19,851 --> 00:00:22,469
+é a esta pessoa que ela vai servir
+
+8
+00:00:22,569 --> 00:00:25,486
+quando você pode examinar as ferramentas para ver como elas funcionam
+
+9
+00:00:25,586 --> 00:00:27,390
+você pode aprender sobre elas
+
+10
+00:00:27,490 --> 00:00:30,536
+e até mesmo modificá-las, para funcionarem diferente
+
+11
+00:00:30,636 --> 00:00:31,636
+ou melhorá-las
+
+12
+00:00:31,736 --> 00:00:34,794
+quando você pode compartilhar a ferramenta e suas mudanças
+
+13
+00:00:34,894 --> 00:00:37,106
+você pode ajudar outros
+
+14
+00:00:37,206 --> 00:00:38,368
+que por sua vez ajudarão você
+
+15
+00:00:40,401 --> 00:00:42,541
+De fato, foi assim que a computação no início se desenvolveu
+
+16
+00:00:44,018 --> 00:00:45,580
+qualquer um podia ver os códigos dos programas
+
+17
+00:00:45,680 --> 00:00:47,356
+e as pessoas compartilhavam seu trabalho livremente
+
+18
+00:00:47,456 --> 00:00:48,456
+promovendo seu crescimento
+
+19
+00:00:51,550 --> 00:00:54,097
+cada usuário era um autor em potencial
+
+20
+00:00:56,322 --> 00:00:58,655
+Mas quando as empresas começaram a negar acesso ao código-fonte
+
+21
+00:01:00,402 --> 00:01:02,849
+Tornou-se impossível participar
+
+22
+00:01:02,949 --> 00:01:04,912
+ou mesmo saber o que o código-fonte fazia
+
+23
+00:01:09,162 --> 00:01:11,687
+como reação, Hackers fundaram o Projeto GNU
+
+24
+00:01:11,787 --> 00:01:14,340
+para criar um sistema desenhado para respeitar
+
+25
+00:01:14,440 --> 00:01:16,758
+a autonomia dos usuários
+
+26
+00:01:18,176 --> 00:01:20,206
+Eles criaram uma "manobra" Copyleft
+
+27
+00:01:20,306 --> 00:01:23,344
+E a embutiram na Licença Pública Geral GNU GPL
+
+28
+00:01:23,444 --> 00:01:26,249
+Uma estrutura legal que preserva os direitos dos usuários
+
+29
+00:01:27,645 --> 00:01:29,041
+Em dez curtos anos
+
+30
+00:01:29,141 --> 00:01:32,275
+o Movimento Software Livre produziu o sistema GNU/Linux
+
+31
+00:01:32,580 --> 00:01:34,113
+Um sistema que ninguém poderia possuir
+
+32
+00:01:34,213 --> 00:01:35,742
+mas que todos poderiam usar
+
+33
+00:01:37,202 --> 00:01:40,501
+Hoje este Sistema mantém aviões no ar
+
+34
+00:01:41,464 --> 00:01:42,627
+ações no mercado
+
+35
+00:01:44,705 --> 00:01:46,631
+e a Internet global rodando
+
+36
+00:01:50,291 --> 00:01:51,687
+todos nós encontramos Software Livre
+
+37
+00:01:51,787 --> 00:01:53,276
+de formas invisíveis
+
+38
+00:01:53,701 --> 00:01:56,301
+Mas Liberdade de Software foi pensada para os usuários
+
+39
+00:01:57,232 --> 00:02:00,378
+É sobre como irá se configurar o mundo tecnológico que habitamos
+
+40
+00:02:00,803 --> 00:02:04,029
+e que tipo de sociedade nossos poderes digitais irão criar
+
+41
+00:02:10,649 --> 00:02:12,182
+<i>libertação do usuário</i>
+
+42
+00:02:14,132 --> 00:02:15,263
+<i>criar o futuro</i>
+
+43
+00:02:15,363 --> 00:02:16,925
+ainda temos trabalho a fazer
+
+44
+00:02:28,504 --> 00:02:33,407
+Fundação Software Livre
+30 anos
+apoiando a liberdade do usuário
+
+45
+00:02:34,434 --> 00:02:37,716
+Junte-se a nós     Contribua     Aprenda mais
+
+46
+00:02:44,482 --> 00:02:47,532
+Tradução pt_BR e legenda Bruno Buys
+
