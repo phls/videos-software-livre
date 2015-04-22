@@ -1,0 +1,112 @@
+1
+00:00:12,778 --> 00:00:15,079
+Bem, o que é o GNU + Linux
+
+2
+00:00:15,079 --> 00:00:20,960
+em 1984 eu comecei a desenvolver um sistema operacional
+
+3
+00:00:20,960 --> 00:00:24,278
+que é um substituto de sofwtare livre
+
+4
+00:00:24,278 --> 00:00:27,059
+para o Unix
+
+5
+00:00:27,059 --> 00:00:34,060
+Unix em 1984 tinha centenas de componentes
+
+6
+00:00:34,880 --> 00:00:39,530
+então desenvolver um substituto significa desenvolver um substituto livre para
+
+7
+00:00:39,530 --> 00:00:41,820
+cada um desses componetes
+
+8
+00:00:41,820 --> 00:00:45,439
+exceto se nós pudermos ficar sem
+
+9
+00:00:45,439 --> 00:00:48,390
+então em 1992
+
+10
+00:00:48,390 --> 00:00:51,549
+nós tínhamos quase o sistema GNU inteiro
+
+11
+00:00:51,549 --> 00:00:55,500
+mas um componente essencialmente importante estava faltando
+
+12
+00:00:55,500 --> 00:00:58,539
+este componente era o Kernel que é o programa,
+
+13
+00:00:58,539 --> 00:01:02,359
+que é a plataforma onde os outros programas rodam
+
+14
+00:01:02,359 --> 00:01:06,670
+ele aloca os recursos dos computadores para outros programas
+
+15
+00:01:06,670 --> 00:01:11,599
+então em 1992 o Senhor Torvalds que tinha escrito
+
+16
+00:01:11,599 --> 00:01:14,239
+um kernel proprietário chamado Linux
+
+17
+00:01:14,239 --> 00:01:16,159
+o liberou
+
+18
+00:01:16,159 --> 00:01:22,259
+nesse momento a combinação do Linux com o sistema GNU incompleto
+
+19
+00:01:22,260 --> 00:01:25,750
+criou um completo sistema operacional livre
+
+20
+00:01:25,750 --> 00:01:31,799
+atingindo o objetivo que eu tinha anunciado em 1983
+
+21
+00:01:31,799 --> 00:01:35,719
+então o resultado foi um sistema que era basicamente GNU mas que também continha
+
+22
+00:01:35,719 --> 00:01:37,590
+Linux
+
+23
+00:01:37,590 --> 00:01:41,490
+então é o sistema GNU + Linux ou GNU/Linux
+
+24
+00:01:41,489 --> 00:01:45,890
+você descobrirá que a maioria das pessoas erradamente chamam toda a coisa como Linux
+
+25
+00:01:45,890 --> 00:01:49,099
+o que significa que você não estará nos dando crédito pelo nosso trabalho
+
+26
+00:01:49,099 --> 00:01:53,819
+isso não é legal, por favor não faça isso, mesmo que outras pessoas façam isso
+
+27
+00:01:53,819 --> 00:01:55,059
+por favor nos trate direito
+
+28
+00:01:57,200 --> 00:02:06,000
+Traduzido e legendado por Paulo Henrique de Lima Santana (phls@softwarelivre.org)
+

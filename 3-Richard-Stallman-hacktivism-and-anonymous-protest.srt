@@ -1,0 +1,140 @@
+1
+00:00:13,288 --> 00:00:15,908
+Usei o termo hacker em
+
+2
+00:00:18,349 --> 00:00:20,768
+a primeira reunião, que é
+
+3
+00:00:20,768 --> 00:00:24,578
+pessoas fazendo coisas que são alegremente inteligentes
+
+4
+00:00:24,579 --> 00:00:30,359
+que não tem que envolver computadores e similares
+
+5
+00:00:30,359 --> 00:00:34,020
+quebrar a segurança de computador é uma coisa diferente
+
+6
+00:00:34,020 --> 00:00:37,820
+e para fazer distinção
+
+7
+00:00:37,820 --> 00:00:40,530
+eu prefiro chamar de "cracking"
+
+8
+00:00:40,530 --> 00:00:44,140
+porque quando eu digo que eu sou um "hacker"
+
+9
+00:00:44,140 --> 00:00:47,910
+isso não significa que eu quebro a segurança de computador
+
+10
+00:00:47,909 --> 00:00:53,009
+e eu quero que as pessoas entendam o significado correto
+
+11
+00:00:53,009 --> 00:00:57,629
+agora, Anonymous não estão sempre envolvidos em quebrar a segurança de computador também
+
+12
+00:00:57,630 --> 00:00:59,400
+de fato, geralmente não estão
+
+13
+00:00:59,399 --> 00:01:02,420
+a maiora das ações dos Anonymous
+
+14
+00:01:02,420 --> 00:01:06,239
+são o equivalente virtual a protestar na rua em frente a porta de um
+
+15
+00:01:06,239 --> 00:01:08,359
+edifício
+
+16
+00:01:08,359 --> 00:01:11,799
+então, muitas pessoas vão para algum website
+
+17
+00:01:11,799 --> 00:01:13,289
+e eles
+
+18
+00:01:13,290 --> 00:01:16,810
+mandam requisições de dados
+
+19
+00:01:16,810 --> 00:01:20,409
+e a ideia é que tantas pessoas
+
+20
+00:01:20,409 --> 00:01:24,869
+pedindo dados de um website será muito mais do que ele pode suportar
+
+21
+00:01:24,870 --> 00:01:29,000
+o que é equivalente a
+
+22
+00:01:29,000 --> 00:01:33,609
+uma grande multidão em pé em frente a porta de um edifício
+
+23
+00:01:33,609 --> 00:01:39,799
+sendo bastante inconveniente e embaraçoso para as pessoas de dentro
+
+24
+00:01:39,799 --> 00:01:42,790
+agora, isso deve ser legal
+
+25
+00:01:42,790 --> 00:01:45,159
+porque isso faz parte da democracia
+
+26
+00:01:45,159 --> 00:01:47,120
+como nós
+
+27
+00:01:47,120 --> 00:01:51,590
+movemos parte das atividades do mundo físico para o mundo virtual, nós
+
+28
+00:01:51,590 --> 00:01:55,880
+devemos manter igualmente a liberdade
+
+29
+00:01:55,879 --> 00:02:01,819
+claro que Estados não gostam realmente de democracia, eles preferem se livrar disso
+
+30
+00:02:01,819 --> 00:02:05,709
+preferem fazer disso uma desculpa para penalizar
+
+31
+00:02:05,709 --> 00:02:09,498
+o equivalente das ações que costumávamos ter o direito de fazer
+
+32
+00:02:09,498 --> 00:02:10,838
+então eles
+
+33
+00:02:10,838 --> 00:02:12,979
+chamam isso de "cyber attack"
+
+34
+00:02:12,979 --> 00:02:15,649
+e eles querem colocar as pessoas na prisão por um longo tempo.
+
+35
+00:02:19,459 --> 00:02:26,459
+Traduzido e legendado por Paulo Henrique de Lima Santana (phls@softwarelivre.org)
+
