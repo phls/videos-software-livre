@@ -44,7 +44,7 @@ mas um componente essencialmente importante estava faltando
 
 12
 00:00:55,500 --> 00:00:58,539
-este componente era o Kernel que é o programa,
+este componente era o kernel que é o programa,
 
 13
 00:00:58,539 --> 00:01:02,359
@@ -72,7 +72,7 @@ nesse momento a combinação do Linux com o sistema GNU incompleto
 
 19
 00:01:22,260 --> 00:01:25,750
-criou um completo sistema operacional livre
+criou um sistema operacional livre completo
 
 20
 00:01:25,750 --> 00:01:31,799
